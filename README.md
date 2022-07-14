@@ -9,4 +9,5 @@ The project and the report (relazione.pdf) describing the problem, approach, sol
 
 To compile use the following commands in the teminal:
 > javac Progetto.java
+
 > java Progetto < input.txt > output.txt
